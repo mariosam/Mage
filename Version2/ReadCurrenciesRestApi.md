@@ -1,8 +1,10 @@
 Desafio
 
-Recuperar a lista de moedas habilitadas em uma loja Magento.
-Usando REST API para Magento 2.
-SEM A NECESSIDADE DE AUTENTICACAO!
+Recuperar a lista de moedas habilitadas em uma loja Magento.<br>
+Usando REST API para Magento 2.<br>
+SEM A NECESSIDADE DE AUTENTICACAO!<br>
+
+Codigo feito nas linguagens: GO, JAVA, Javascript, e PHP.
 
 Entrada
 
